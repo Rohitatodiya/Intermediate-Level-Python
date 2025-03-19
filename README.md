@@ -1,2 +1,2 @@
-# Numerical Python
-Numerical Python, often referred to as NumPy, is a fundamental library in Python for scientific computing and numerical operations. It provides support for working with large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently.
+# Basic to Intermediate
+Python is a powerful and versatile language widely used for data analysis due to its extensive libraries like Pandas, NumPy, and Matplotlib, which facilitate data manipulation, numerical computation, and visualization.
